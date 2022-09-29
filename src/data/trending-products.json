@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title":"Product Name",
+        "price":"$00.00",
+        "image": "img/banner.jpg"
+    },
+    {
+        "id": 2,
+        "title":"Product Name",
+        "price":"$00.00",
+        "image": "img/banner.jpg"
+    },
+    {
+        "id": 3,
+        "title":"Product Name",
+        "price":"$00.00",
+        "image": "img/banner.jpg"
+    },
+    {
+        "id": 4,
+        "title":"Product Name",
+        "price":"$00.00",
+        "image": "img/banner.jpg"
+    },
+    {
+        "id": 5,
+        "title":"Product Name",
+        "price":"$00.00",
+        "image": "img/banner.jpg"
+    },
+    {
+        "id": 6,
+        "title":"Product Name",
+        "price":"$00.00",
+        "image": "img/banner.jpg"
+    }
+]

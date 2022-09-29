@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "title":"Article title to appear in this section of text",        
+        "para" : "Pellentesque in ipsum id orci porta dapibus. Vestibulum ante ipsum primis in faucibus orciluctus et ultrices posuere cubilia Curae; Donec velit neque,",
+        "image": "img/banner-2.jpg"
+    },
+    {
+        "id": 2,
+        "title":"Article title to appear in this section of text",        
+        "para" : "Pellentesque in ipsum id orci porta dapibus. Vestibulum ante ipsum primis in faucibus orciluctus et ultrices posuere cubilia Curae; Donec velit neque,",
+        "image": "img/banner-2.jpg"
+    },
+    {
+        "id": 3,
+        "title":"Article title to appear in this section of text",        
+        "para" : "Pellentesque in ipsum id orci porta dapibus. Vestibulum ante ipsum primis in faucibus orciluctus et ultrices posuere cubilia Curae; Donec velit neque,",
+        "image": "img/banner-2.jpg"
+    }
+    
+]
