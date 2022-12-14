@@ -10,7 +10,7 @@ function Header() {
             <a href="#">
                 <img src="img/Boeken-Logo (1).png" alt="" />
             </a>
-            <div className="search">
+            <div className="search ">
                 <form action="" method="post">
                     <input type="text" />
                     <i className="fa-solid fa-magnifying-glass"></i>
